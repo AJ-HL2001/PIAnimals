@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_pets">
+
+    <fragment
+        android:id="@+id/nav_pets"
+        android:name="es.studium.pianimals.ui.pets.PetsFragment"
+        android:label="@string/menu_pets"
+        tools:layout="@layout/fragment_pets" />
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="es.studium.pianimals.ui.map.MapFragment"
+        android:label="@string/menu_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/nav_archivo"
+        android:name="es.studium.pianimals.ui.archivo.ArchivoFragment"
+        android:label="@string/menu_archivo"
+        tools:layout="@layout/fragment_archivo" />
+    <fragment
+        android:id="@+id/nav_contac"
+        android:name="es.studium.pianimals.ui.contacto.ContactoFragment"
+        android:label="@string/menu_contac"
+        tools:layout="@layout/fragment_contacto" />
+    <fragment
+        android:id="@+id/nav_ajuste"
+        android:name="es.studium.pianimals.ui.ajustes.AjustesFragment"
+        android:label="@string/menu_ajustes"
+        tools:layout="@layout/fragment_ajustes" />
+</navigation>

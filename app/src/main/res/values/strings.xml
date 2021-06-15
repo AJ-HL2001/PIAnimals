@@ -1,0 +1,123 @@
+<resources>
+    //Titulos
+    <string name="app_name">Animals</string>
+    <string name="nav_header_title">Animals</string>
+    <string name="nav_header_subtitle">Gestión De Mascotas Y Más</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="txtContactos">Contactos Para Emergencias</string>
+
+    //Menú
+    <string name="menu_pets">Mascotas</string>
+    <string name="menu_map">Mapa</string>
+    <string name="menu_archivo">Derechos Animales</string>
+    <string name="menu_contac">Contactos</string>
+    <string name="menu_ajustes">Ajustes</string>
+
+    //Info Animal
+    <string name="pet_name">Nombre:</string>
+    <string name="pet_birth">Nacimiento:</string>
+    <string name="pet_raza">Raza:</string>
+    <string name="pet_tipo">Animal:</string>
+    <string name="pet_genero">Género:</string>
+
+    //Botones
+    <string name="vacuna_btn">Vacunas</string>
+    <string name="nota_btn">Notas</string>
+    <string name="aceptar_btn">Aceptar</string>
+    <string name="cancelar_btn">Cancelar</string>
+    <string name="modif_btn">Modificar</string>
+    <string name="btnNacional" translatable="false">CNP(091)</string>
+    <string name="btnGc" translatable="false">GC(062)</string>
+    <string name="btnLocal" translatable="false">CPL(092)</string>
+    <string name="btnEmerg" translatable="false">Emergencias(112)</string>
+    <string name="btnBomb" translatable="false">Bomberos(080)</string>
+    <string name="btnAtras">Atras</string>
+
+    //Artículos
+    <string name="art1">Artículo 1</string>
+    <string name="art2">Artículo 2</string>
+    <string name="art3">Artículo 3</string>
+    <string name="art4">Artículo 4</string>
+    <string name="art5">Artículo 5</string>
+    <string name="art6">Artículo 6</string>
+    <string name="art7">Artículo 7</string>
+    <string name="art8">Artículo 8</string>
+    <string name="art9">Artículo 9</string>
+    <string name="art10">Artículo 10</string>
+    <string name="art11">Artículo 11</string>
+    <string name="art12">Artículo 12</string>
+    <string name="art13">Artículo 13</string>
+    <string name="art14">Artículo 14</string>
+
+    //Secciones Art.
+    //Art1
+    <string name="art1_a">Todos los animales nacen iguales ante la vida y la tienen los mismos derechos a la existencia.</string>
+
+    //Art2
+    <string name="art2_a">Todo animal tiene derecho a ser respetado.</string>
+    <string name="art2_b">El hombre, en tanto que especie animal, no puede atribuirse el derecho a exterminar a los otros animales o explotarlos violando su derecho. Tiene la obligación de poner sus conocimientos al servicio de los animales.</string>
+    <string name="art2_c">Todos los animales tienen derecho a la atención, a los cuidados y a la protección del hombre.</string>
+
+    //Art3
+    <string name="art3_a">Ningún animal será sometido a malos tratos ni a actos crueles.</string>
+    <string name="art3_b">Si la muerte de un animal es necesaria, debe ser instantánea, indolora y no generadora de angustia.</string>
+
+    //Art4
+    <string name="art4_a">Todo animal perteneciente a una especie salvaje, tiene derecho a vivir en libertad en su propio ambiente natural terrestre, aéreo o acuático y a reproducirse.</string>
+    <string name="art4_b">Toda privación de libertad, incluso aquella que tenga fines educativos, es contraria a este derecho.</string>
+
+    //Art5
+    <string name="art5_a">Todo animal perteneciente a una especie que viva tradicionalmente en el entorno del hombre, tiene derecho a vivir y crecer al ritmo y en las condiciones de vida y de libertad que sean propias de su especie.</string>
+    <string name="art5_b">Toda modificación de dicho ritmo o dichas condiciones que fuera impuesta por el hombre, es contraria a dicho derecho.</string>
+
+    //Art6
+    <string name="art6_a">Todo animal escogido por el hombre como compañero tiene derecho a que la duración de su vida sea conforme a su longevidad natural.</string>
+    <string name="art6_b">El abandono de un animal es un acto cruel y degradante.</string>
+
+    //Art7
+    <string name="art7_a">Todo animal de trabajo tiene derecho a una limitación razonable del tiempo e intensidad de trabajo, a una alimentación reparadora y al reposo.</string>
+
+    //Art8
+    <string name="art8_a">La experimentación animal que implique sufrimiento físico o psicológico es incompatible con los derechos del animal, ya se trate de experimentos médicos, científicos, comerciales, o de cualquier otra forma de experimentación.</string>
+    <string name="art8_b">Las técnicas alternativas de experimentación deben ser utilizadas y desarrolladas.</string>
+
+    //Art9
+    <string name="art9_a">Los animales criados para la alimentación deben ser nutridos, alojados, transportados y sacrificados sin causarles ni ansiedad ni dolor.</string>
+
+    //Art10
+    <string name="art10_a">Ningún animal será explotado para esparcimiento del hombre.</string>
+    <string name="art10_b">Las exhibiciones de animales y los espectáculos que se sirvan de ellos son incompatibles con la dignidad del animal.</string>
+
+    //Art11
+    <string name="art11_a">Todo acto que implique la muerte innecesaria de un animal es un biocidio, es decir, un crimen contra la vida.</string>
+
+    //Art12
+    <string name="art12_a">Todo acto que implique la muerte de un gran número de animales salvajes es un genocidio, es decir, un crimen contra la especie.</string>
+    <string name="art12_b">La contaminación y la destrucción del ambiente natural conducen al genocidio.</string>
+
+    //Art13
+    <string name="art13_a">Un animal muerto debe ser tratado con respeto.</string>
+    <string name="art13_b">Las escenas violentas en las que haya víctimas animales deben ser prohibidas en el cine y en la televisión, a no ser que su objetivo sea denunciar los atentados contra los derechos del animal.</string>
+
+    //Art14
+    <string name="art14_a">Los organismos de protección y salvaguarda de los animales deben ser representados a nivel gubernamental.</string>
+    <string name="art14_b">Los derechos del animal deben ser defendidos por la ley, al igual que los derechos del hombre.</string>
+
+    //Array idiomas
+    <string name="str_en">Ingles</string>
+    <string name="str_es">Español</string>
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+    </string-array>
+    <string name="title_Idiomas">Selecciona tu Idioma</string>
+    <string name="idiomasDialog">¿Ingles o Español?</string>
+    <string name="lenguaje_btn">Idioma</string>
+    <string name="txtNota">Nota</string>
+
+    <string name="google_maps_key"
+        templateMergeStrategy="preserve"
+        translatable="false">
+        AIzaSyBNqAHd2IHcsEHf593VtHaptUhxoQIlrKo
+    </string>
+</resources>
